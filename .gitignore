@@ -3,3 +3,4 @@ DevStore.Api/bin/*
 DevStore.Api/obj/*
 DevStore.Api/.vs/*
 .vs/*
+packages/*
