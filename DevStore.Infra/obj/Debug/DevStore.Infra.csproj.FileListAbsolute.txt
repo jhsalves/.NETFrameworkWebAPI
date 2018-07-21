@@ -1,0 +1,13 @@
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+C:\Users\Jonathas\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
